@@ -1,5 +1,6 @@
 merge_queue:
   max_parallel_checks: 128
+  skip_intermediate_results: false
 scopes:
   source:
     manual: null
